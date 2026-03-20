@@ -274,9 +274,9 @@ Open index.html in your browser.
 
 ### Deployment
 You can deploy this portfolio easily using:
--GitHub Pages
--Netliy
--Vercel
+- GitHub Pages
+- Netliy
+- Vercel
 
 ## Contact
 
