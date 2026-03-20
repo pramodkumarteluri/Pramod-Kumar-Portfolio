@@ -272,11 +272,11 @@ cd Pramod-Kumar-Portfolio
 
 Open index.html in your browser.
 
-Deployment
+### Deployment
 You can deploy this portfolio easily using:
-GitHub Pages
-Netliy
-Vercel
+-GitHub Pages
+-Netliy
+-Vercel
 
 ## Contact
 
