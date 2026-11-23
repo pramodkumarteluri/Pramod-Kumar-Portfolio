@@ -1,43 +1,42 @@
-# Pramod Kumar Portfolio
 
-This repository contains my personal portfolio website built to showcase my technical skills, projects, professional experience, education, and certifications in web development and MERN Stack development.
+# Pramod Kumar | Portfolio
 
-## About the Project
+Welcome to my personal portfolio repository. This website showcases my technical skills, projects, professional experience, education, and certifications in software development and MERN stack development.
 
-This portfolio website presents my profile as a MERN Stack Developer with hands-on experience in:
+## About Me
 
-- MERN Stack development
+I am a Computer Science and Engineering graduate with an interest in full-stack and backend development. My technical experience and skills include:
+
+- MERN stack development
 - Frontend web development
 - Backend development
 - RESTful API development
 - Database management
-- Authentication and application integration
+- Authentication and API integration
 - AWS fundamentals
 
-The website includes dedicated sections for technical skills, professional experience, featured projects, education, certifications, and contact information.
+This portfolio provides an overview of my technical background, professional experience, projects, education, and certifications.
 
 ## Features
 
 - Clean and responsive portfolio website
-- Hero section with introduction and professional role highlight
-- Skills section covering frontend, backend, databases, and development tools
+- Hero section with professional introduction
+- Technical skills and technology stack
 - Professional experience section
-- Projects section showcasing full-stack web applications
-- Education and certification details
-- Contact section for opportunities and collaboration
+- Featured projects
+- Education and certifications
+- Contact section for professional opportunities
 - Downloadable resume in PDF format
 
 ## Tech Stack
 
 ### Frontend
-
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-### Libraries / Plugins
-
+### Libraries and Plugins
 - jQuery
 - Owl Carousel
 - Magnific Popup
@@ -47,26 +46,22 @@ The website includes dedicated sections for technical skills, professional exper
 - Superslides
 
 ### Backend / Contact Handling
-
 - PHP
 
-## Skills Highlighted in the Portfolio
+## Technical Skills
 
 ### Programming Languages
-
 - JavaScript (ES6+)
 - Python
 
-### Frontend
-
+### Frontend Development
 - React.js
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-### Backend
-
+### Backend Development
 - Node.js
 - Express.js
 - RESTful APIs
@@ -75,19 +70,16 @@ The website includes dedicated sections for technical skills, professional exper
 - API Integration
 
 ### Databases
-
 - MongoDB
 - MongoDB Atlas
 - MySQL
 - Mongoose
 
-### Cloud & Tools
-
+### Cloud and Development Tools
 - AWS Fundamentals
-- Git
-- GitHub
+- Git and GitHub
 - Postman
-- VS Code
+- Visual Studio Code
 - MongoDB Compass
 
 ## Professional Experience
@@ -100,16 +92,15 @@ The website includes dedicated sections for technical skills, professional exper
 - Collaborating with the development team and following Git-based development workflows.
 - Supporting the implementation of backend functionality based on application requirements.
 
-## Projects Showcased
+## Featured Projects
 
 ### 1. Job Portal — INSIDER JOBS
 
 A full-stack job portal application developed using the MERN stack.
 
-**Key Features:**
-
+**Key Features**
 - Job seeker and recruiter functionality
-- Job searching and application workflows
+- Job search and application workflows
 - JWT-based authentication
 - User profile management
 - RESTful API integration
@@ -117,8 +108,7 @@ A full-stack job portal application developed using the MERN stack.
 - Responsive user interface
 - Registration and job application form handling
 
-**Tech Used:**
-
+**Technologies Used**
 - React.js
 - Node.js
 - Express.js
@@ -127,12 +117,11 @@ A full-stack job portal application developed using the MERN stack.
 - JavaScript
 - Bootstrap
 
-### 2. Movie Watchlist — Full Stack MERN Application
+### 2. Movie Watchlist — MERN Stack Application
 
 A full-stack web application for discovering, searching, and managing movies in a personal watchlist.
 
-**Key Features:**
-
+**Key Features**
 - Movie discovery and search
 - Personal watchlist management
 - User authentication
@@ -141,8 +130,7 @@ A full-stack web application for discovering, searching, and managing movies in 
 - Persistent database storage
 - Frontend and backend integration
 
-**Tech Used:**
-
+**Technologies Used**
 - React.js
 - Node.js
 - Express.js
@@ -152,15 +140,15 @@ A full-stack web application for discovering, searching, and managing movies in 
 
 ## Education
 
-### Bachelor of Technology – Computer Science and Engineering
+### Bachelor of Technology — Computer Science and Engineering
 
 **Swarna Bharathi Institute of Science and Technology, Khammam**
 
-**June 2021 – September 2024**
+June 2021 – September 2024
 
-**CGPA: 6.57 / 10**
+**CGPA:** 6.57 / 10
 
-Built a foundation in programming, software development, problem-solving, and application development.
+Developed a foundation in programming, software development, problem-solving, and application development.
 
 ## Certifications
 
@@ -185,7 +173,10 @@ Pramod-Kumar-Portfolio/
 ├── fonts/
 │
 ├── images/
-│   └── Pramod Kumar.png
+│   ├── Pramod Kumar.jpeg
+│   ├── background/
+│   ├── portfolio/
+│   └── slider/
 │
 ├── js/
 │   ├── animated.headline.js
@@ -211,39 +202,58 @@ Pramod-Kumar-Portfolio/
 ├── mail.php
 ├── PramodKumar.pdf
 └── README.md
-How to Run Locally
-1. Clone the Repository
+```
+
+## Run Locally
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/pramodkumarteluri/Pramod-Kumar-Portfolio.git
+```
 
+### 2. Navigate to the Project Directory
 
-2. Navigate to the Project Directory
+```bash
 cd Pramod-Kumar-Portfolio
+```
 
+### 3. Open the Portfolio
 
-3. Open the Portfolio
-Open index.html in your web browser.
+Open `index.html` in your browser.
 
-If you use PHP-based contact form functionality, run the project through a PHP-enabled local server.
-Resume
-My latest resume is included in this repository.
+To test the PHP contact form, run the project through a PHP-enabled local server.
 
-Resume File: PramodKumar.pdf
+## Resume
 
-Download it directly from the repository:
+My latest resume is available in this repository.
 
-Download Resume
-Deployment
+**Resume File:** `PramodKumar.pdf`
+
+[Download My Resume](./PramodKumar.pdf)
+
+## Deployment
+
 This portfolio can be deployed using:
-- Netlify
-- GitHub Pages (for static website functionality)
-- Vercel
-Live Portfolio: https://pramodkumarteluri.netlify.app/
 
-Note: GitHub Pages supports static websites but does not execute PHP. The PHP contact form requires a PHP-compatible hosting service or an external form service.
-Contact
-For opportunities, collaboration, or project discussions, connect with me through:
-- Email: pramodkumarteluri@gmail.com
-- Phone: +91 7893120693
-- Portfolio: pramodkumarteluri.netlify.app
-- LinkedIn: Pramod Kumar
-- GitHub: pramodkumarteluri
+- Netlify
+- GitHub Pages (static website functionality)
+- Vercel
+
+**Live Portfolio:** [pramodkumarteluri.netlify.app](https://pramodkumarteluri.netlify.app/)
+
+**Note:** GitHub Pages supports static websites but does not execute PHP. The PHP contact form requires PHP-compatible hosting or an external form service.
+
+## Contact
+
+For professional opportunities, collaboration, or project discussions, feel free to connect with me.
+
+- **Email:** [pramodkumarteluri@gmail.com](mailto:pramodkumarteluri@gmail.com)
+- **Phone:** +91 7893120693
+- **Portfolio:** [Personal Website](https://pramodkumarteluri.netlify.app/)
+- **LinkedIn:** [Pramod Kumar](https://www.linkedin.com/in/pramodkumarteluri/)
+- **GitHub:** [pramodkumarteluri](https://github.com/pramodkumarteluri)
+
+---
+
+Thank you for visiting my portfolio!
